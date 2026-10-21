@@ -1,0 +1,42 @@
+$ python ./assignment2_1.py
+Enter the student's score: 95
+The student scored 95 with a grade of A
+
+$ python ./assignment2_1.py
+Enter the student's score: 60
+The student scored 60 with a grade of D
+
+----------------------------------
+$ python ./assignment2_2.py
+Enter student name: Alice
+Current grade: A
+Enter updated grade: A+
+Grade updated successfully!
+
+All Student Grades:
+Alice : A+
+Bob : B
+Charlie : C
+
+$ python ./assignment2_2.py
+Enter student name: David
+Enter new student's grade: D
+New student added successfully!
+
+All Student Grades:
+Alice : A
+Bob : B
+Charlie : C
+David : D
+
+-----------------------------------------
+
+$ python ./assignment2_3.py
+enter the text to be displayed in the file:WELCOME TO PYTOHN BASICS ASSIGNMENT
+Content written to file successfully!
+
+-------------------------------------
+$ python ./assignment2_4.py
+Content of the file:
+WELCOME TO PYTOHN BASICS ASSIGNMENT
+This is a student grades file.
